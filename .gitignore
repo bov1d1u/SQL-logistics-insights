@@ -1,0 +1,19 @@
+.venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+results/
+.DS_Store
+
+# Report outputs
+*.pdf
+*.csv
+
+env/
+venv/
+
+# VS Code
+.vscode/
